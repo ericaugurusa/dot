@@ -1,0 +1,20 @@
+body{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	background: #d6d6d6;
+}
+.info{
+
+	margin-left: 30px;
+}
+
+.container{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+#dot{
+	margin: 0px;
+	font-size: 100px;
+}
